@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CertARBORIS.iml" filepath="$PROJECT_DIR$/.idea/CertARBORIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CertyfikatyArboris/CertyfikatyArboris.iml" filepath="$PROJECT_DIR$/CertyfikatyArboris/CertyfikatyArboris.iml" />
+    </modules>
+  </component>
+</project>
